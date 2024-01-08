@@ -1,4 +1,2 @@
-# DataAnalyst_Portfolio
-Data Analyst Portfolio projects
-
-SQL, Python, PowerBI, Excel
+# Data Science Repository
+Repository of projects showcasing Python, SQL, Excel and PowerBI skills.
